@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lectrix2025/Dynamic_plotting_Software.git/static/css/main.03a16b86.css",
+    "main.js": "/Lectrix2025/Dynamic_plotting_Software.git/static/js/main.4b29269b.js",
+    "static/js/453.6ae02b76.chunk.js": "/Lectrix2025/Dynamic_plotting_Software.git/static/js/453.6ae02b76.chunk.js",
+    "index.html": "/Lectrix2025/Dynamic_plotting_Software.git/index.html",
+    "main.03a16b86.css.map": "/Lectrix2025/Dynamic_plotting_Software.git/static/css/main.03a16b86.css.map",
+    "main.4b29269b.js.map": "/Lectrix2025/Dynamic_plotting_Software.git/static/js/main.4b29269b.js.map",
+    "453.6ae02b76.chunk.js.map": "/Lectrix2025/Dynamic_plotting_Software.git/static/js/453.6ae02b76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03a16b86.css",
+    "static/js/main.4b29269b.js"
+  ]
+}
